@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Another Test Blog Post
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/pink-clouds.jpg
 thumbnail-img: /assets/img/pink-peonies.jpg
